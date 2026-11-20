@@ -109,8 +109,7 @@ Through this lab, the following concepts were applied:
 |---|---|
 | `PES2UG24CS368-PRATHAM_KUMAR-LAB_1.pdf` | Completed Lab-01 assignment report containing the requirements table, UML explanation and use-case flow. |
 | `60_SE_Lab1_SE_Problem_Statements.pdf` | Instructor-provided problem statement for the Podcast Guest Scheduling & Outline Builder. |
-| `index.pdf` | Lab handout containing objectives, learning outcomes, instructions and deliverables. |
-| `PES2UG24CS368.docx` | Editable Word document containing the completed assignment work. |
+| `Student_guidelines` | Lab handout containing objectives, learning outcomes, instructions and deliverables. |
 
 ## 10. Conclusion
 
