@@ -159,8 +159,6 @@ The charts showed that all planned work was completed within the simulated sprin
 |---|---|
 | `Lab_2_Jira_Student_Handout.pdf` | Instructor-provided lab instructions and procedure. |
 | `PES2UG24CS368_PRATHAM-KUMAR_Lab2_Jira.pdf` | Completed Lab-02 assignment report with Jira workflow, sprint results, charts and reflection answers. |
-| `PES2UG24CS368.docx` | Editable Word document containing the assignment work. |
-| `Screenshot 2026-08-25 205732.png` | Supporting Jira execution screenshot. |
 
 ## 13. Conclusion
 
