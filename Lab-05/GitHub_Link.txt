@@ -1,0 +1,9 @@
+SOFTWARE ENGINEERING – LAB 05
+
+Assignment: Static Code Analysis – Student Attendance Tracker
+
+Student Name: Pratham Kumar
+SRN: PES2UG24CS368
+
+GitHub Repository:
+https://github.com/PKumar041104/L5_61_attendance-tracker
