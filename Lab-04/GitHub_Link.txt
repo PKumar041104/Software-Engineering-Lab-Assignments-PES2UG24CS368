@@ -1,0 +1,8 @@
+SOFTWARE ENGINEERING – LAB 04
+
+Assignment: Number Guessing Game Repair
+Student Name: Pratham Kumar
+SRN: PES2UG24CS368
+
+GitHub Repository Link:
+https://github.com/PKumar041104/60_number_guess
