@@ -1,0 +1,12 @@
+SOFTWARE ENGINEERING – LAB 06
+
+Assignment: Code and Branch Coverage Analysis
+
+Student Name: Pratham Kumar
+SRN: PES2UG24CS368
+
+GitHub Repository:
+https://github.com/PKumar041104/L6_L7_60_marathon_registration
+
+Project Directory:
+LAB6
