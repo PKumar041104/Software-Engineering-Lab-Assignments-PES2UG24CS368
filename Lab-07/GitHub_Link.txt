@@ -1,0 +1,12 @@
+SOFTWARE ENGINEERING – LAB 07
+
+Assignment: Fuzzing for Input Validation Bugs
+
+Student Name: Pratham Kumar
+SRN: PES2UG24CS368
+
+GitHub Repository:
+https://github.com/PKumar041104/L6_L7_60_marathon_registration
+
+Project Directory:
+LAB7
